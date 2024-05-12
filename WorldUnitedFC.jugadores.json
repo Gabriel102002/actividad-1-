@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "663ee9e10ca8c87ab3842770"
+  },
+  "nombre": "Lionel Messi",
+  "edad": 34,
+  "posición": "Delantero",
+  "equipo": "FB Barcelona",
+  "targetas_recibidas": 7
+},
+{
+  "_id": {
+    "$oid": "663ee9e10ca8c87ab3842771"
+  },
+  "nombre": "Karim Benzema",
+  "edad": 36,
+  "posición": "Delantero",
+  "equipo": "Real Madrid",
+  "targetas_recibidas": 8
+},
+{
+  "_id": {
+    "$oid": "663ee9e10ca8c87ab3842772"
+  },
+  "nombre": "Neymar Jr",
+  "edad": 30,
+  "posición": "Delantero",
+  "equipo": "Paris Saint-Germain",
+  "targetas_recibidas": 5
+},
+{
+  "_id": {
+    "$oid": "663ee9e10ca8c87ab3842773"
+  },
+  "nombre": "Kevin De Bruyne",
+  "edad": 32,
+  "posición": "centrocampista",
+  "equipo": "Machester City",
+  "targetas_recibidas": 9
+},
+{
+  "_id": {
+    "$oid": "663ee9e10ca8c87ab3842774"
+  },
+  "nombre": "Thomas Müller",
+  "edad": 34,
+  "posición": "Delantero",
+  "equipo": "Bayern de Múnich",
+  "targetas_recibidas": 6
+}]

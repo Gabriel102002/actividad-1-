@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "663ee06a0ca8c87ab384275b"
+  },
+  "encuentro_id": 1,
+  "fecha": "05/01/2024",
+  "hora": "3:00 pm",
+  "equipo_local": "Real Madrid",
+  "equipo_visitante": "FC Barcelona",
+  "estadio": "Santagiago Bernabéu",
+  "Resultado": "2-1"
+},
+{
+  "_id": {
+    "$oid": "663ee06a0ca8c87ab384275c"
+  },
+  "encuentro_id": 2,
+  "fecha": "10/02/2024",
+  "hora": "6:00 pm",
+  "equipo_local": "Manchester United",
+  "equipo_visitante": "Liverpoo",
+  "estadio": "Old Trafford",
+  "Resultado": "1-0"
+},
+{
+  "_id": {
+    "$oid": "663ee06a0ca8c87ab384275d"
+  },
+  "encuentro_id": 3,
+  "fecha": "15/03/2024",
+  "hora": "8:00 am",
+  "equipo_local": "Paris Saint-Germain",
+  "equipo_visitante": "Bayern Munich",
+  "estadio": "Parc des Princes",
+  "Resultado": "3-2"
+},
+{
+  "_id": {
+    "$oid": "663ee06a0ca8c87ab384275e"
+  },
+  "encuentro_id": 4,
+  "fecha": "20/04/2024",
+  "hora": "5:00 pm",
+  "equipo_local": "Juventus",
+  "equipo_visitante": "Inter de Milán",
+  "estadio": "Allianz Stadium",
+  "Resultado": "2-2"
+},
+{
+  "_id": {
+    "$oid": "663ee06a0ca8c87ab384275f"
+  },
+  "encuentro_id": 5,
+  "fecha": "10/05/2024",
+  "hora": "11:00 am",
+  "equipo_local": "Chelsea",
+  "equipo_visitante": "Manchester City",
+  "estadio": "Stamford Bridge",
+  "Resultado": "1-0"
+}]

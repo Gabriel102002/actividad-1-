@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "663ef39d0ca8c87ab3842787"
+  },
+  "encuentro_id": 1,
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "tarjetas": "Tarjeta amarilla para Sergio Ramos (Real Madrid), Tarjeta amarilla para Jordi Alba (FC Barcelona)",
+  "posesion_balón": "Real Madrid: 55, FC Barcelona: 45"
+},
+{
+  "_id": {
+    "$oid": "663ef39d0ca8c87ab3842788"
+  },
+  "encuentro_id": 2,
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "tarjetas": "Tarjeta amarilla para Bruno Fernandes (Manchester United), Tarjeta roja para Sadio Mané (Liverpool)",
+  "posesion_balón": "Manchester United: 60, Liverpool: 40"
+},
+{
+  "_id": {
+    "$oid": "663ef39d0ca8c87ab3842789"
+  },
+  "encuentro_id": 3,
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "tarjetas": "Tarjeta amarilla para Kylian Mbappé (Paris Saint-Germain), Tarjeta amarilla para Joshua Kimmich (Bayern Munich)",
+  "posesion_balón": "Paris Saint-Germain: 50, Bayern Munich: 50"
+},
+{
+  "_id": {
+    "$oid": "663ef39d0ca8c87ab384278a"
+  },
+  "encuentro_id": 4,
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "tarjetas": "Tarjeta amarilla para Leonardo Bonucci (Juventus), Tarjeta amarilla para Stefan de Vrij (Inter de Milán)",
+  "posesion_balón": "Juventus: 48, Inter de Milán: 52"
+},
+{
+  "_id": {
+    "$oid": "663ef39d0ca8c87ab384278b"
+  },
+  "encuentro_id": 5,
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "tarjetas": "Tarjeta amarilla para Kai Havertz (Chelsea), Tarjeta amarilla para Bernardo Silva (Manchester City)",
+  "posesion_balón": "Chelsea: 55, Manchester City: 45"
+}]

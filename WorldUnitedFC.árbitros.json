@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "663ef6f40ca8c87ab3842795"
+  },
+  "nombre": "Howard Webb",
+  "edad": 50,
+  "categoría": "Internacional",
+  "historial_partidos": "Final de la Copa del Mundo 2010, Final de la Champions League 2009",
+  "decisiones_destacadas": "Penal no cobrado en la final del Mundial 2010, Tarjeta roja directa en la final de la Champions League 2009"
+},
+{
+  "_id": {
+    "$oid": "663ef6f40ca8c87ab3842796"
+  },
+  "nombre": "Felix Brych",
+  "edad": 46,
+  "categoría": "Internacional",
+  "historial_partidos": "Final de la Champions League 2020, Semifinal de la Eurocopa 2016",
+  "decisiones_destacadas": "Penal cobrado en tiempo extra en la final de la Champions League 2020, Tarjeta roja en la semifinal de la Eurocopa 2016"
+},
+{
+  "_id": {
+    "$oid": "663ef6f40ca8c87ab3842797"
+  },
+  "nombre": "Mark Clattenburg",
+  "edad": 46,
+  "categoría": "Internacional",
+  "historial_partidos": "Final de la UEFA Euro 2016, Final de la UEFA Champions League 2016",
+  "decisiones_destacadas": "Penal no cobrado en la final de la UEFA Euro 2016 , Tarjeta roja en la final de la UEFA Champions League 2016"
+},
+{
+  "_id": {
+    "$oid": "663ef6f40ca8c87ab3842798"
+  },
+  "nombre": "Björn Kuipers",
+  "edad": 48,
+  "categoría": "Internacional",
+  "historial_partidos": "Final de la UEFA Europa League 2013, Cuartos de final de la Copa del Mundo 2014",
+  "decisiones_destacadas": "Penal cobrado en tiempo extra en la final de la UEFA Europa League 2013, Decisión de no cobrar un penal polémico en los cuartos de final de la Copa del Mundo 2014"
+},
+{
+  "_id": {
+    "$oid": "663ef6f40ca8c87ab3842799"
+  },
+  "nombre": "Pierluigi Collina",
+  "edad": 61,
+  "categoría": "Legendario",
+  "historial_partidos": "Final de la Copa del Mundo 2002, Final de la UEFA Champions League 1999",
+  "decisiones_destacadas": "Gol anulado por mano en la final de la Copa del Mundo 2002, Penal cobrado en la final de la UEFA Champions League 1999"
+}]

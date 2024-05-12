@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "663ee6200ca8c87ab3842765"
+  },
+  "nombe": "Real Madrid",
+  "ciudad": "Madrid",
+  "entrenador_principal": "Carlo Ancelotti",
+  "plantilla": "Karim Benzema, Thibaut Courtois",
+  "palmarés": "La liga(34 titulos),Champions League (13 títulos)"
+},
+{
+  "_id": {
+    "$oid": "663ee6200ca8c87ab3842766"
+  },
+  "nombe": "FC Barcelona",
+  "ciudad": "Barcelona",
+  "entrenador_principal": "Xavi Hernández",
+  "plantilla": "Lionel Messi, Sergio Busquets",
+  "palmarés": "La liga(26 titulos),Champions League (5 títulos)"
+},
+{
+  "_id": {
+    "$oid": "663ee6200ca8c87ab3842767"
+  },
+  "nombe": "Paris Saint-Germain",
+  "ciudad": "París",
+  "entrenador_principal": "Mauricio Pochettino",
+  "plantilla": "Kylian Mbappé, Neymar Jr",
+  "palmarés": "Ligue 1(9 titulos),Copa de Francia (13 títulos)"
+},
+{
+  "_id": {
+    "$oid": "663ee6200ca8c87ab3842768"
+  },
+  "nombe": "Manchester City",
+  "ciudad": "Manchester",
+  "entrenador_principal": "Pep Guardiola",
+  "plantilla": "Kevin De Bruyne, Raheem Sterling",
+  "palmarés": "Premier League (6 títulos),FA Cup (6 títulos)"
+},
+{
+  "_id": {
+    "$oid": "663ee6200ca8c87ab3842769"
+  },
+  "nombe": "Bayern de Múnich",
+  "ciudad": "Múnich",
+  "entrenador_principal": "Julian Nagelsmann",
+  "plantilla": "Robert Lewandowski, Thomas Müller",
+  "palmarés": "Bundesliga (31 títulos),Champions League (16 títulos)"
+}]
